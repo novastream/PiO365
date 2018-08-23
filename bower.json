@@ -1,0 +1,25 @@
+{
+  "name": "PiO365",
+  "description": "Office 365 calendar display for Raspberry Pi",
+  "main": "",
+  "authors": [
+    "Novastream AB"
+  ],
+  "license": "MIT",
+  "homepage": "https://novastream.se",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "fullcalendar": "^3.9.0",
+    "bootstrap": "^4.1.3",
+    "popper.js": "^1.14.4",
+    "select2": "^4.0.5"
+  }
+}

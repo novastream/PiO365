@@ -1,0 +1,39 @@
+.form-control {
+	border-radius:0px;
+}
+.fc-day-grid-event .fc-content {
+	white-space: normal!important;
+}
+.fc-event-time, .fc-event-title {
+	white-space: normal!important;
+}
+.fc-day-grid-container.fc-scroller {
+    height: auto!important;
+    overflow-y: auto;
+}
+.select2-container .select2-selection--single {
+    height:34px;
+    border-radius:0px;
+    border-color:#d2d6de;
+}
+.select2-container .select2-selection--multiple {
+    min-height:34px;
+    border-radius:0px;
+    border-color:#d2d6de;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    top:6px;
+}
+.select2-dropdown {
+    border-radius:0px;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice {
+    background-color: #3c8dbc;
+    border-color: #367fa9;
+    padding: 1px 10px;
+    color: #fff;
+}
+.select2-container--default .select2-selection--multiple .select2-selection__choice__remove {
+    margin-right: 5px;
+    color: rgba(255,255,255,0.7);
+}
